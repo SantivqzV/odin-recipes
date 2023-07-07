@@ -1,1 +1,1 @@
-# odin-recipes
+Practice project of just HTML where a basic recipe website will be made
